@@ -58,7 +58,4 @@ Você também pode abrir [issues](https://github.com/Sousxs/Processing/issues) p
 Para dúvidas, sugestões ou feedback, sinta-se à vontade para abrir uma issue ou entrar em contato.
 
 ---
-
-<div align="center">
-Feito com ❤ por [Sousxs](https://github.com/Sousxs)
-</div>
+>  Feito por [Sousxs](https://github.com/Sousxs)
