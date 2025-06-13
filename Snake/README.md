@@ -13,7 +13,7 @@ Um jogo da cobrinha simples feito em Processing.
 
 ## Exemplo em execução
 
-![gif](Snake/Snake.gif)
+![gif](https://github.com/Sousxs/Processing/blob/main/Snake/Snake.gif)
 
 ---
 
